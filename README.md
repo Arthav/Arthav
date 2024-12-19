@@ -1,7 +1,7 @@
 ![👋 Hi, my name is Christian Bonafena](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Arthav&label=Profile%20views&color=0e75b6&style=flat)
-
+<a href="https://app.daily.dev/christianbonafena"><img src="https://api.daily.dev/devcards/v2/uQ8d07FYtnUvgZGPjzZYV.png?r=t4s&type=wide" width="652" alt="Christian Bonafena's Dev Card"/></a>
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
