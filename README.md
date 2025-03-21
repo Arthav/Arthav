@@ -11,8 +11,8 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring cybersecurity and Agentic AI**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 🌱 I'm currently learning: **📚 Exploring SaaS and Agentic AI**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, Sql, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I often debug in my dream**
 
  **<h3 align="left">Skills</h3>**
