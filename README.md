@@ -5,15 +5,110 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/cbonz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="christianbonafena7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+# Christian Bonafena
+**Senior Full-Stack / Backend Engineer (Node.js • PostgreSQL • Docker • GraphQL • Next.js)**  
+Surabaya (Asia/Jakarta) • Open to remote
+**Focus:** building production systems end-to-end — APIs, databases, integrations, automation bots, and document pipelines.
 
- **<h3 align="left">🚀 Fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+---
 
-**<h3 align="left">Rapid Fire</h3>**
+## Summary
+I’m a product-minded engineer who ships **real systems**: internal business platforms, event/admin dashboards, automation bots, and document-heavy workflows (PDF generation, OCR, stamping, exports). I’m strongest in **backend architecture + data modeling**, but I also build the UI when needed (Next.js/React).
 
-- 💼 I'm currently working on: **💻 Developing platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring SaaS and Agentic AI**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, Sql, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I often debug in my dream**
+I like problems where the solution needs to be **reliable, secure, and operational**, not just “works on my machine”.
+
+---
+
+## What I’m strong at
+- **Backend architecture**: modular services, clean routing/controllers, validation, RBAC, background jobs/schedulers
+- **PostgreSQL**: schema design, migrations, indexing, performance tuning, reporting queries, pagination/count correctness
+- **Integrations**: payment flows (e.g., invoice/link based), third-party APIs, webhook patterns, idempotency
+- **Document pipelines**: DOCX→PDF conversion, PDF manipulation, OCR extraction, stamping workflows, exporting (PDF/Excel)
+- **Automation & bots**: Telegram bots, scheduled announcements, stateful flows, admin tooling
+- **Operational mindset**: Docker-based environments, debugging production errors, log-first troubleshooting, hardening apps
+
+---
+
+## Core tech stack
+**Backend**
+- Node.js (Express), **NestJS (preferred)**
+- REST APIs, GraphQL consumption, JWT/API-key auth, validation (Joi)
+- Background jobs / schedulers, workers, concurrency control
+
+**Database**
+- PostgreSQL (including vector/embedding workflows when needed)
+- Query optimization, indexes (including specialized indexes), pagination, reporting, data integrity rules
+
+**Frontend**
+- Next.js / React
+- Apollo/GraphQL client
+- Material UI (MUI), component-driven admin UIs
+
+**Infra / DevOps**
+- Docker, Docker Compose, multi-service networking, environment-based deployments
+- Vercel (for certain deployments), CI-friendly setups
+
+**Document / AI Tooling (when relevant)**
+- PDF generation/export, templating
+- OCR + extraction pipelines
+- RAG-style document Q&A systems (embeddings + chunking + retrieval)
+
+---
+
+## Selected project highlights (representative)
+### 1) Document & stamping platform (PDF-heavy workflow)
+Built a system centered around **document ingestion → conversion → extraction → stamping → delivery**, including:
+- DOCX→PDF conversion service integration
+- OCR/extraction to support searchable metadata and downstream workflows
+- secure API design, robust validation, and operational debugging for production issues
+
+### 2) Business platform / ERP-style backend modules
+Designed and implemented backend modules commonly found in internal business platforms:
+- sales/purchasing/inventory/tax/finance-style flows
+- role-based access patterns and admin reporting endpoints
+- Postgres-first data modeling with careful pagination/count correctness
+
+### 3) Event management & guest handling (admin dashboard)
+Built an admin-heavy web app:
+- guest lists, check-in flows, QR handling, exports
+- GraphQL-based data access, dynamic admin UI, operational tooling
+
+### 4) Telegram automation bot for workplace operations
+Built a stateful Telegram bot system with:
+- user/order tables, auto-order logic, scheduled open/close flows, announcements
+- guardrails to handle group behavior and edge cases cleanly
+
+### 5) Odoo customization work (module + view + error debugging)
+Implemented custom Odoo modules and fixes:
+- model/view inheritance, required fields, server errors, and workflow consistency
+- practical debugging using logs and shell inspection
+
+---
+
+## How I work
+- **Iterative + shippable**: I break work into milestones and deliver usable increments quickly.
+- **Quality without ceremony**: input validation, predictable APIs, solid logging, and sane defaults.
+- **Debug-first**: I’m comfortable chasing real production errors (type mismatches, operator issues, view/model mismatches, etc.) until it’s fixed properly.
+- **Security-aware**: I care about auth boundaries, safe file handling, and minimizing “easy-to-hack” surfaces.
+
+---
+
+## What I’m looking for
+Roles where I can own backend systems end-to-end:
+- Backend Engineer / Full-Stack Engineer (backend-leaning)
+- Platforms with real integrations, real data, real operational constraints
+- Teams that value shipping + reliability over excessive process
+
+---
+
+## Keywords (ATS-friendly)
+Node.js, Express, NestJS, PostgreSQL, SQL, Docker, Docker Compose, REST API, JWT, RBAC, GraphQL, Next.js, React, Apollo, Material UI, Background Jobs, Webhooks, PDF Generation, OCR, Document Processing, Reporting, Pagination, Performance Tuning
+
+---
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/cbonz/
+- Contact: christianbonafena7@gmail.com
 
  **<h3 align="left">Skills</h3>**
 
